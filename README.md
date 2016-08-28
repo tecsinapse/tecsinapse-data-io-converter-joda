@@ -3,7 +3,7 @@ Tecsinapse Data Importer and Exporter
 [![License (LGPL version 3)](https://img.shields.io/badge/license-GNU%20LGPL%20version%203.0-blue.svg)](https://github.com/tecsinapse/ts-data-ie-converter-joda/blob/master/LICENCE)
 [![Build Status](https://travis-ci.org/tecsinapse/ts-data-ie-converter-joda.svg?branch=master)](https://travis-ci.org/tecsinapse/ts-data-ie-converter-joda)
 [![Coverage Status](https://img.shields.io/coveralls/tecsinapse/ts-data-ie-converter-joda.svg?branch=master)](https://coveralls.io/github/tecsinapse/ts-data-ie-converter-joda?branch=master)
-[![Dependency Status](https://www.versioneye.com/user/projects/57c283f5939fc600508e8c19/badge.svg)](https://www.versioneye.com/user/projects/57c283f5939fc600508e8c19)
+[![Dependency Status](https://www.versioneye.com/user/projects/57c319c4968d640039516a09/badge.svg)](https://www.versioneye.com/user/projects/57c319c4968d640039516a09)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/br.com.tecsinapse/ts-data-ie-converter-joda/badge.svg)](https://maven-badges.herokuapp.com/maven-central/br.com.tecsinapse/ts-data-ie-converter-joda/)
 [![Javadoc](http://www.javadoc.io/badge/br.com.tecsinapse/ts-data-ie-converter-joda.svg)](http://www.javadoc.io/doc/br.com.tecsinapse/ts-data-ie-converter-joda)
 
@@ -20,14 +20,14 @@ Maven:
 <dependency>
   <groupId>br.com.tecsinapse</groupId>
   <artifactId>ts-data-ie-converter-joda</artifactId>
-  <version>1.6.0</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
 Gradle:
 
 ```groovy
-compile "br.com.tecsinapse:ts-data-ie-converter-joda:1.6.0"
+compile "br.com.tecsinapse:ts-data-ie-converter-joda:1.0.0"
 ```
 
 If you want to use snapshots first config OSS Sonatype Snapshots repository:
@@ -63,14 +63,14 @@ And then the dependency:
 <dependency>
   <groupId>br.com.tecsinapse</groupId>
   <artifactId>ts-data-ie-converter-joda</artifactId>
-  <version>1.6.1-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
 </dependency>
 ```
 
 Gradle:
 
 ```groovy
-compile 'br.com.tecsinapse:ts-data-ie-converter-joda:1.6.1-SNAPSHOT'
+compile 'br.com.tecsinapse:ts-data-ie-converter-joda:1.0.1-SNAPSHOT'
 ```
 
 Documentation and samples

@@ -105,6 +105,18 @@
         <url>https://travis-ci.org/tecsinapse/ts-data-ie-converter-joda</url>
     </ciManagement>
 
+    <!-- Remove after first release ts-data-ie -->
+    <repositories>
+        <repository>
+            <id>oss-snapshots</id>
+            <name>OSS Snapshots</name>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>br.com.tecsinapse</groupId>

@@ -1,13 +1,13 @@
 Contributing/Development
 ===
-`ts-data-ie-converter-joda` is always looking for people to contribute to the project. We welcome your
+`tecsinapse-data-io-converter-joda` is always looking for people to contribute to the project. We welcome your
 feedback and want to listen and discuss your ideas and issues.
 
-There are many different ways to help contribute to the `ts-data-ie-converter-joda` project.
+There are many different ways to help contribute to the `tecsinapse-data-io-converter-joda` project.
 
-* Improving or enhancing our [documentation](https://github.com/tecsinapse/ts-data-ie-converter-joda/wiki)
-* Fixing open issues listed in the [issue tracker](https://github.com/tecsinapse/ts-data-ie-converter-joda/issues?state=open)
-* Adding new features to the `ts-data-ie-converter-joda` codebase
+* Improving or enhancing our [documentation](https://github.com/tecsinapse/tecsinapse-data-io-converter-joda/wiki)
+* Fixing open issues listed in the [issue tracker](https://github.com/tecsinapse/tecsinapse-data-io-converter-joda/issues?state=open)
+* Adding new features to the `tecsinapse-data-io-converter-joda` codebase
 
 Guidelines
 ===
@@ -21,7 +21,7 @@ Code style
 ---
 When submitting code, please make every effort to follow existing conventions and
 style in order to keep the code as readable as possible. We realize that the style
-used in `ts-data-ie-converter-joda` might be different that what is used in your projects, but in the end
+used in `tecsinapse-data-io-converter-joda` might be different that what is used in your projects, but in the end
  it makes it easier to merge changes and maintain in the future.
 
 Testing

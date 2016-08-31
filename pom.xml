@@ -12,7 +12,7 @@
         <version>1.0.0</version>
     </parent>
     <artifactId>tecsinapse-data-io-converter-joda</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
 
@@ -92,7 +92,7 @@
         <url>https://github.com/tecsinapse/tecsinapse-data-io-converter-joda</url>
         <connection>scm:git:git@github.com:tecsinapse/tecsinapse-data-io-converter-joda.git</connection>
         <developerConnection>scm:git:git@github.com:tecsinapse/tecsinapse-data-io-converter-joda.git</developerConnection>
-        <tag>tecsinapse-data-io-converter-joda-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <issueManagement>

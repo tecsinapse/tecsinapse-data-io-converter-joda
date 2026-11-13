@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: tecsinapse-data-io-converter-joda-catalog
+  description: Entidades do tecsinapse-data-io-converter-joda no Backstage
+spec:
+  type: url
+  targets:
+    - ./catalog/tecsinapse-data-io-converter-joda.yaml
